@@ -1,0 +1,10 @@
+
+.movi-list p{
+    background-color: black;
+    color: white;
+    width: fit-content;
+}
+
+.movi-display img{
+    width: 300px;
+}
